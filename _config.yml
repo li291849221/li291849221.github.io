@@ -1,11 +1,11 @@
 # Basic
-title: licy
-subtitle: 生活明朗，万物可爱
-description: 欢迎来到我的个人站~
+#title: licy
+#subtitle: 永远相信美好的事情即将发生
+description: 永远相信美好的事情即将发生~
 # 头像里面的标题
-#avatarTitle:licy 
+avatarTitle:licy 
 # 头像里面的描述
-avatarDesc: 永远相信美好的事情即将发生
+avatarDesc: 生活明朗，万物可爱
 url: "http://"
 
 # Comment
